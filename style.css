@@ -1,5 +1,8 @@
-.cabeça {background-color: #C1C1C1;
+.cabeça {
+    background-color: #C1C1C1;
 color: white;
 display:flex;
 }
-.imagencabeça{width: 20%%;}
+.imagencabeça{
+    width: 20%%;
+}
