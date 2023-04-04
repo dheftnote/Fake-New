@@ -1,5 +1,5 @@
 *{margin: 0;
-   padding: 0; 
+    padding: 0; 
 
 }
 .cabeça {
@@ -8,6 +8,7 @@ color: rgb(201, 35, 35);
 display:flex;
 justify-content: space-around;
 padding: 0 15px;
+font-family: 'Changa One', cursive;
 }
 .imagencabeça{
     width: 15%;
@@ -22,7 +23,4 @@ padding: 0 15px;
 }
 .listacabeça{
     font-size:30px
-}
-body{
-    font-family: 'Changa One', cursive;
 }
