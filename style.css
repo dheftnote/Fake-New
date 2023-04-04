@@ -5,7 +5,7 @@ display:flex;
 justify-content: space-around;
 }
 .imagencabeça{
-    width: 10%;
+    width: 15%;
 }
 .listacabeçaitem  { display: inline;
     margin: 0 15px;
