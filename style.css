@@ -1,9 +1,13 @@
 .cabeça {
-    background-color: #C1C1C1;
-color: white;
+    background-color: #ffffff;
+color: rgb(201, 35, 35);
 display:flex;
 justify-content: space-around;
 }
 .imagencabeça{
     width: 10%;
+}
+.listacabeçaitem  { display: inline;
+    margin: 0 15px;
+
 }
