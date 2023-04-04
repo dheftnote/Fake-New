@@ -20,9 +20,9 @@ padding: 0 15px;
      width: 15%;
 
 }
-.pokemons{
-
+.listacabeça{
+    fonte-size:30px
 }
-.queimadas{
-
+body{
+    font-family: 'Changa One', cursive;
 }
