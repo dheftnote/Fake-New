@@ -1,5 +1,5 @@
-*{margin: 20px;
-    padding: 20px; 
+*{margin: 0;
+    padding: 0; 
 
 }
 .cabeça {
@@ -26,7 +26,10 @@ font-family: 'Changa One', cursive;
 }
 .fake{
     background-image: linear-gradient(#ffffff,#818181);
+    color: black;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .home{
  width: 35%;
