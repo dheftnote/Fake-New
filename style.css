@@ -32,5 +32,6 @@ font-family: 'Changa One', cursive;
     align-items: center;
 }
 .home{
- width: 35%;
+ width: 65%;
+ padding: 20px;
 }
