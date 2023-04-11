@@ -24,3 +24,6 @@ font-family: 'Changa One', cursive;
 .listacabeçaitem{
     font-size:30px
 }
+.fake{
+    background-image: linear-gradient(#ffffff,#818181);
+}
