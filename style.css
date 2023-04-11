@@ -26,4 +26,8 @@ font-family: 'Changa One', cursive;
 }
 .fake{
     background-image: linear-gradient(#ffffff,#818181);
+    display: flex;
+}
+.home{
+ width: 35%;
 }
