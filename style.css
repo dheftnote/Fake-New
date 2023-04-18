@@ -18,14 +18,20 @@ font-family: 'Changa One', cursive;
   font-size: 20%;
 }
 .pokemons{
-
+    width: 314px;
+    float: right;
+    margin: 15px;
 }
 .acidente{
-     width: 500px;
+    width: 395px;
+    float: left;
+    margin: 20px;
 
 }
 .queimadas{
-
+    float: right;
+    width: 46%;
+    margin: 14px;
 }
 
 .listacabeçaitem{
