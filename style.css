@@ -17,10 +17,17 @@ font-family: 'Changa One', cursive;
     margin: 0 15px;
   font-size: 20%;
 }
+.pokemons{
+
+}
 .acidente{
      width: 500px;
 
 }
+.queimadas{
+
+}
+
 .listacabeçaitem{
     font-size:30px
 }
@@ -35,9 +42,18 @@ font-family: 'Changa One', cursive;
  width: 65%;
  padding: 20px;
  font-family: 'Kanit', sans-serif;
+
 }
 .titulo{
-    margin: 30px;}
-    .p{
-    font-size: 300px;
-    }
+    margin: 30px;
+    font-size: 35px;
+}
+.texto1{
+    font-size: 30px
+}
+.texto2{
+    font-size:30px
+}
+.texto3{
+    font-size:30px
+}
